@@ -406,62 +406,37 @@
                     <thead>
                         <tr>
                             <th>Dia da Semana</th>
-                            <th>Horário Bloco 1 (19h00 - 20h30)</th>
-                            <th>Horário Bloco 2 (20h30 - 22h00)</th>
+                            <th>Matéria em Foco (19h00 - 22h00)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <td>Segunda-feira</td>
-                            <td><strong>Algoritmos e Lógica de Programação</strong><br>(Prof. Maurício)</td>
-                            <td><strong>Lógica Matemática e Mat. Discreta</strong><br>(Prof. Gabriel)</td>
+                            <td><strong>Inglês Técnico</strong><br>(Prof. Jean)</td>
                         </tr>
                         <tr>
                             <td>Terça-feira</td>
                             <td><strong>Fundamentos de Sistemas de Informação</strong><br>(Prof. Edvonaldo)</td>
-                            <td><strong>Inglês Técnico</strong><br>(Prof. Jean)</td>
                         </tr>
                         <tr>
                             <td>Quarta-feira</td>
-                            <td><strong>Algoritmos e Lógica de Programação</strong><br>(Prof. Maurício)</td>
-                            <td><strong>Filosofia</strong><br>(Prof. Vagner Ramalho)</td>
+                            <td><strong>Lógica Matemática e Matemática Discreta</strong><br>(Prof. Gabriel)</td>
                         </tr>
                         <tr>
                             <td>Quinta-feira</td>
-                            <td><strong>Lógica Matemática e Mat. Discreta</strong><br>(Prof. Gabriel)</td>
-                            <td><strong>Fundamentos de Sistemas de Informação</strong><br>(Prof. Edvonaldo)</td>
+                            <td><strong>Filosofia</strong><br>(Prof. Vagner Ramalho)</td>
                         </tr>
                         <tr>
                             <td>Sexta-feira</td>
-                            <td colspan="2"><strong>Introdução às Tecnologias Web</strong> (19h00 - 22h00)<br>(Prof. Maurício) <span class="tag ead" style="display:inline-block; margin-left: 5px; font-size:0.8em; padding: 3px 6px;">EAD</span></td>
+                            <td><strong>Algoritmos e Lógica de Programação</strong><br>(Prof. Maurício)</td>
                         </tr>
                     </tbody>
                 </table>
             </div>
-            <p class="nota-ead">Lembre-se: <strong>Introdução às Tecnologias Web</strong> é sua quest EAD (Ensino a Distância) via <strong>Google Classroom</strong>. Fique de olho nas postagens e prazos do Prof. Maurício!</p>
+            <p class="nota-ead">Lembre-se: <strong>Introdução às Tecnologias Web</strong> (Prof. Maurício) é sua quest EAD (Ensino a Distância) via <strong>Google Classroom</strong>. Fique de olho nas postagens e prazos!</p>
         </section>
 
         <section id="dicas">
             <h2>DICAS PRO DE UM VETERANO 🎮</h2>
             <ul>
-                <li>Não tenha medo de perguntar! Os NPCs (professores e colegas) estão aqui para ajudar.</li>
-                <li>Forme guildas (grupos de estudo). Juntos vocês são mais fortes contra os bosses (provas).</li>
-                <li>Explore o campus! Existem áreas secretas (biblioteca, laboratórios) cheias de power-ups.</li>
-                <li>Gerencie seu inventário (tempo). Equilibre estudo, side quests (atividades extracurriculares) e descanso.</li>
-                <li>Participe dos eventos! São ótimas oportunidades para "upar" (evoluir) suas skills e networking.</li>
-                <li>A documentação (material de aula, livros) é seu melhor amigo. Consulte-a frequentemente.</li>
-                <li>Salve seu progresso! (Faça backups dos seus trabalhos).</li>
-            </ul>
-        </section>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p><span class="ifal-logo-footer">IFAL ARAPIRACA</span> Guia do Calouro de Sistemas de Informação</p>
-            <p>Feito com ☕ e muito código para ajudar na sua jornada!</p>
-            <p>&copy; 2025 - Level Up Calouro!</p>
-        </div>
-    </footer>
-
-</body>
-</html>
+                <li>Não tenha medo de perguntar! Os "NPCs" (professores e colegas) estão aqui para aju
