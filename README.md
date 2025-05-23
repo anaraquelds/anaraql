@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -445,12 +444,12 @@
         <section id="dicas">
             <h2>DICAS PRO DE UM VETERANO 🎮</h2>
             <ul>
-                <li>Não tenha medo de perguntar! Os "NPCs" (professores e colegas) estão aqui para ajudar.</li>
-                <li>Forme "guildas" (grupos de estudo). Juntos vocês são mais fortes contra os "bosses" (provas).</li>
-                <li>Explore o campus! Existem "áreas secretas" (biblioteca, laboratórios) cheias de "power-ups".</li>
-                <li>Gerencie seu "inventário" (tempo). Equilibre estudo, "side quests" (atividades extracurriculares) e descanso.</li>
+                <li>Não tenha medo de perguntar! Os NPCs (professores e colegas) estão aqui para ajudar.</li>
+                <li>Forme guildas (grupos de estudo). Juntos vocês são mais fortes contra os bosses (provas).</li>
+                <li>Explore o campus! Existem áreas secretas (biblioteca, laboratórios) cheias de power-ups.</li>
+                <li>Gerencie seu inventário (tempo). Equilibre estudo, side quests (atividades extracurriculares) e descanso.</li>
                 <li>Participe dos eventos! São ótimas oportunidades para "upar" (evoluir) suas skills e networking.</li>
-                <li>A "documentação" (material de aula, livros) é seu melhor amigo. Consulte-a frequentemente.</li>
+                <li>A documentação (material de aula, livros) é seu melhor amigo. Consulte-a frequentemente.</li>
                 <li>Salve seu progresso! (Faça backups dos seus trabalhos).</li>
             </ul>
         </section>
@@ -458,7 +457,7 @@
 
     <footer>
         <div class="container">
-            <p><span class="ifal-logo-footer">IFAL ARAPIRACA</span> :: Guia do Calouro de Sistemas de Informação</p>
+            <p><span class="ifal-logo-footer">IFAL ARAPIRACA</span> Guia do Calouro de Sistemas de Informação</p>
             <p>Feito com ☕ e muito código para ajudar na sua jornada!</p>
             <p>&copy; 2025 - Level Up Calouro!</p>
         </div>
